@@ -1,6 +1,7 @@
 # helthtips
 
 A new Flutter project.
+![Screenshot 2023-12-20 154010](https://github.com/kgcemon/health_care_ui/assets/146537184/a6b4f68e-3831-4adb-b7f7-9c7dafa87cd6)
 
 ## Getting Started
 
